@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs "
   contactDetails:
     name: "Alperen - Developer"
-    email: "alperen@email.com"
+    email: "{cipher}c566fcac65aacc570f82ab174c77b75d0d7fa6599bf80e11f5e73a94d5c166d6de892b4cf38bdc5a069a2f95dc5caf99"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
