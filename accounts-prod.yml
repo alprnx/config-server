@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs "
+  contactDetails:
+    name: "ender - Developer"
+    email: "ender@email.com"
+  onCallSupport:
+    - (111) 000-000
+    - (111) 999-999
