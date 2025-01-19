@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Elif - Developer"
+    email: "elif@email.com"
+  onCallSupport:
+    - (333) 111-111
+    - (333) 222-222
