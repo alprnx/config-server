@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "Welcome to EazyBank Cards Related local APIs"
+  contactDetails:
+    name: "Zeki Celik"
+    email: "zelicelik@email.com"
+  onCallSupport:
+    - (412) 419-3491
+    - (915) 382-1932
