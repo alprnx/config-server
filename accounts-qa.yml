@@ -6,6 +6,6 @@ accounts:
   contactDetails:
     name: "Elif - Developer"
     email: "elif@email.com"
-  onCallSupports:
+  onCallSupport:
     - (333) 111-111
     - (333) 222-222
