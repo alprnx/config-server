@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to EazyBank accounts related QA Updated APIs "
   contactDetails:
     name: "Elif - Developer"
     email: "elif@email.com"
